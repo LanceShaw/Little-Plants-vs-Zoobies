@@ -1,0 +1,105 @@
+<RCC>
+    <qresource prefix="/new/startMenu">
+        <file>WechatIMG1.png</file>
+        <file>WechatIMG2.png</file>
+        <file>WechatIMG3.png</file>
+        <file>start.gif</file>
+        <file>Surface.png</file>
+    </qresource>
+    <qresource prefix="/new/gamaWindow">
+        <file>SeedChooser_Background.png</file>
+        <file>background1.png</file>
+    </qresource>
+    <qresource prefix="/new/Zoobie">
+        <file>0.gif</file>
+        <file>1.gif</file>
+        <file>2.gif</file>
+        <file>3.gif</file>
+        <file>BoomDie.gif</file>
+        <file>Zombie.gif</file>
+        <file>Zombie2.gif</file>
+        <file>Zombie3.gif</file>
+        <file>ZombieAttack.gif</file>
+        <file>ZombieDie.gif</file>
+        <file>ZombieHead.gif</file>
+        <file>ZombieLostHead.gif</file>
+        <file>ZombieLostHeadAttack.gif</file>
+    </qresource>
+    <qresource prefix="/new/Pea">
+        <file>Peashooter.gif</file>
+        <file>PeashooterECard.png</file>
+        <file>PeashooterNCard.png</file>
+        <file>Peashooter_0.png</file>
+    </qresource>
+    <qresource prefix="/new/WallNut">
+        <file>Wallnut_cracked1.gif</file>
+        <file>Wallnut_cracked2.gif</file>
+        <file>WallNut.gif</file>
+        <file>WallNutECard.png</file>
+        <file>WallNutNCard.png</file>
+        <file>WallNut0.png</file>
+    </qresource>
+    <qresource prefix="/new/Shovel">
+        <file>Shovel.png</file>
+        <file>ShovelBack.png</file>
+    </qresource>
+    <qresource prefix="/new/SunFlower">
+        <file>SunFlowerECard.png</file>
+        <file>SunFlowerNCard.png</file>
+        <file>SunFlower1.gif</file>
+        <file>SunFlower0.png</file>
+    </qresource>
+    <qresource prefix="/new/Sunshine">
+        <file>Sun.gif</file>
+        <file>SunBack.png</file>
+    </qresource>
+    <qresource prefix="/new/bucketZoobie">
+        <file>bucket0.gif</file>
+        <file>bucket1.gif</file>
+        <file>BucketheadZombie.gif</file>
+        <file>BucketheadZombieAttack.gif</file>
+    </qresource>
+    <qresource prefix="/new/bullet">
+        <file>bullet.png</file>
+        <file>bullet2.png</file>
+        <file>PB-10.gif</file>
+        <file>PB10.gif</file>
+        <file>PB11.gif</file>
+        <file>PeaBulletHit.gif</file>
+        <file>LawnCleaner.png</file>
+    </qresource>
+    <qresource prefix="/new/PoleVaultingZoobie">
+        <file>jumpzombiejump.gif</file>
+        <file>PoleVaultingZombie.gif</file>
+        <file>PoleVaultingZombieAttack.gif</file>
+        <file>PoleVaultingZombieWalk.gif</file>
+    </qresource>
+    <qresource prefix="/new/music">
+        <file>chomp.mp3</file>
+        <file>chompsoft.mp3</file>
+        <file>evillaugh.mp3</file>
+        <file>explosion.mp3</file>
+        <file>groan1.mp3</file>
+        <file>Look up at the Sky.mp3</file>
+        <file>Loonboon.mp3</file>
+        <file>Mountains.mp3</file>
+        <file>polevault.mp3</file>
+        <file>scream.mp3</file>
+        <file>shovel.mp3</file>
+        <file>UraniwaNi.mp3</file>
+        <file>winmusic.mp3</file>
+        <file>shieldhit.mp3</file>
+        <file>splat1.mp3</file>
+        <file>zamboni1.mp3</file>
+        <file>siren.mp3</file>
+        <file>buttonclick.mp3</file>
+        <file>plant1.mp3</file>
+    </qresource>
+    <qresource prefix="/new/GameEnd">
+        <file>trophy.png</file>
+        <file>ZombiesWon.png</file>
+    </qresource>
+    <qresource prefix="/new/LawnCleaner">
+        <file>LawnCleaner.png</file>
+    </qresource>
+</RCC>
